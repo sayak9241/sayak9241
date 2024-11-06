@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sayak9241
+- 👋 Hi, I’m Sayak Mukherjee
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me my number is 7596813002
 
